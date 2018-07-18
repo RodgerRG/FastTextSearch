@@ -1,0 +1,2 @@
+# FastTextSearch
+Lexicographical text sort
